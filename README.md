@@ -1,5 +1,5 @@
 
-![RPA](img/rpa.png)
+![RPA](img/rpa.JPG)
 
 
 ### Python RPA e Excel (automatizar Processos e Planilhas)
